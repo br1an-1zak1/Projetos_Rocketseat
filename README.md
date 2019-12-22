@@ -1,2 +1,2 @@
 # Projetos_Rocketseat
-Projetos feitos vendo video aulas da Rocketseat no skylab. 
+Desenvolvendo uma API de CRUD com node durante video aula de node.js para iniciantes  
